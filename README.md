@@ -44,5 +44,6 @@ http://127.0.0.1:8000/admin/
 
 ## Link para a documentação da API (Postman)
 ```
+https://www.postman.com/ricaleno/twitter/request/b92kdid/obtain-token
 ```
 
